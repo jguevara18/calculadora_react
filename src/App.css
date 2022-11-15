@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: rgb(241, 247, 245);
+  font-family: sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Larnu-logo-contenedor{
+  width: 100%;
+  height: 100px;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.Larnu-logo{
+  height: 200px;
+}
+
+.contenedor-calculadora {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: #3a7bc5;
+  border-radius: 20px;
+  border: 5px solid blueviolet;
+}
+
+.fila {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
